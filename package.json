@@ -1,0 +1,21 @@
+{
+  "name": "keyboard_controller",
+  "description": "Unified keyboard input handler",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "repository": "https://github.com/AlexGunin/keyboard-controller.git",
+  "scripts": {},
+  "type": "module",
+  "keywords": [
+    "keyboard",
+    "controller",
+    "events",
+    "keyup",
+    "keydown"
+  ],
+  "author": "Alex Gunin",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
